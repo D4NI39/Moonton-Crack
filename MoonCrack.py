@@ -1,8 +1,8 @@
 # coding=utf-8
 
 #
-# * RECODE? OKE GAK MASSALAH
-# * TAPI YA JANGAN DI JUAL KONTOL
+# * MAU RECODE? BOLEH
+# * TAPI JANGAN DI JUAL TOLOL
 #
 
 import os, sys, hashlib, json, random, re
